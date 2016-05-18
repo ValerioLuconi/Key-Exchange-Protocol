@@ -17,4 +17,4 @@ Clone the repository and then compile with `make`:
 
 ## Test
 
-First execute `./test/auto.sh` to distribute keys. Then `./test/test.sh` to run a simple test.
+First execute `./test/auto.sh` to distribute keys. Then `./test/test.sh` to run a simple test. At the moment tests are in italian.
